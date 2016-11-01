@@ -58,7 +58,7 @@ var floor = {
         });
     },
     updateFloor:function(){
-        if(this.h()=='haley'&&this.week==5){
+        if(this.h()=='haley'){
             this.getData();
 
         }else{
